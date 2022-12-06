@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+  background-color: #383E56;
+  color: #F69E7B;
+}
+
+html > body {
+  background-color: #383E56;
+}
+
+
+.RecipeImg {
+  display: block;
+  margin: auto;
+  width: 50%;
+  position: relative;
+}
+
+.Imgdiv {
+  margin: auto;
+}
+
+.card h3 {
+  padding: 10px;
+  font-weight: bold;
+}
+
+.RecpiesList{
+  margin: auto;
+}
+
+.RecpiesList .card {
+  background-color: #EEDAD1;
+  color: #383E56;
+  margin: 20px;
+}
+
+.btnDiv button {
+  background-color: #F69E7B;
+  color: #383E56;
+  border: 1px solid #383E56;
+  border-radius: 5px;
+}
+
+.btnDiv{
+padding: 20px;
+}
+
+.row{
+  margin: auto;
+}
